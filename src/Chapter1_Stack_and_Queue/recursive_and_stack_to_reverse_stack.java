@@ -1,4 +1,4 @@
-package Stack_and_Queue;
+package Chapter1_Stack_and_Queue;
 
 /**
  * @author DuanmuXu
